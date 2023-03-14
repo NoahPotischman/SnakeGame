@@ -2,7 +2,11 @@
 A pixel version of googles snake game. 
 
 
+
 ![image](https://user-images.githubusercontent.com/114684575/224873497-23588355-7cd3-4fba-bd25-a0e002b6c76c.png)
+
+![image](https://user-images.githubusercontent.com/114684575/224885563-84942118-ee8b-4c70-95af-a8142bfe05f6.png)
+
 
 
 Things to note:
